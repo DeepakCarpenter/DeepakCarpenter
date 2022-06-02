@@ -1,9 +1,4 @@
-### Hi there, I am Deepak 👋
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=deepakcarpenter&count_private=true&show_icons=true&title_color=ffffff&icon_color=ffbe0b&text_color=D8E5F6&bg_color=5C43F2"/>
-</p>
-
- <img src="https://github.com/KhamakhaDeveloper/KhamakhaDeveloper/blob/master/header.png">
+<img src="https://github.com/KhamakhaDeveloper/KhamakhaDeveloper/blob/master/header.png">
 
 <p align="center"
 

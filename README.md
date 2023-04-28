@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm an iOS Engineering Manager 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm an Engineering Manager and iOS Enthusiat
 =====================================
 
 <p align="center"
@@ -6,11 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/KhamkhaDevloper) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@DeepakCarpenter)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepakcarpenter/)
 
 </p>
+![](https://komarev.com/ghpvc/?username=deepakcarpenter&label=PROFILE+VIEWS)
 
 ### Hi there, I am Deepak 👋
 
 
-I'm a Mobile Engineer at [Deloitte](https://www2.deloitte.com/global/en/pages/technology/solutions/deloitte-digital.html) in Bengaluru, IN 🇮🇳
+Working at [The Good Glamm Group](https://goodglamm.com/) Remotely 🇮🇳
 
 - 🔭  I’m currently Learning [SwiftUI](https://developer.apple.com/documentation/swiftui) and [Backend with Flask](https://flask.palletsprojects.com/en/1.1.x/)
 - 📖 I’m reading [Inspired](https://www.amazon.in/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N#:~:text=of%20tech%20companies.-,In%20INSPIRED%2C%20technology%20product%20management%20thought%20leader%20Marty%20Cagan%20provides,will%20work%20for%20your%20business.)
